@@ -1,17 +1,10 @@
-# Cours de contruction de site web
-## À rendre pour le 12 Octobre
-### Trouver une idée de site
+# Le Studio Ghibli
+## Les personnages iconiques des films du studio
 
-Bienvenu sur le site Totoro, l'endroit idéal pour trouvers les anécdotes croustillantes sur cette boule de poils
+Bienvenu sur ce site sur le studio ghibli, l'endroit idéal pour en apprendre plus sur ce studio d'animation, sur les personnages principaux et sur ses musiques iconiques.
 
 ![image](https://github.com/user-attachments/assets/b1e3bada-5613-41a5-aa32-8e66c7d50c84)
---> Voici une image du personnage de Totoro, emblème du studio Ghibli.
+> Voici une image du personnage de Totoro, emblème du studio Ghibli.
 
-![image](https://github.com/user-attachments/assets/79728d93-fb1b-49e7-b727-cf4857147e64)
-**Bonjour et bienvenu sur cette page**
-*Ici vous trouverez ce dont vous avez besoin*
-[Ghibli](test2)
+[Totoro](test2)
 
->je veux manger du cordon bleu
->
->>J'ai très faim, je pense me faire une fondue de poireaux
