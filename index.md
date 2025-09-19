@@ -12,5 +12,7 @@ Le Studio Ghibli</h1>
 ![image](https://github.com/user-attachments/assets/b1e3bada-5613-41a5-aa32-8e66c7d50c84)
 >> Voici une image du personnage de Totoro, emblème du studio Ghibli.
 
-[Totoro](test2)
+Cliquez sur les liens ci-dessous pour en apprendre plus sur vos personnages préférés :
+
+- [Totoro](test2)
 
