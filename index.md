@@ -1,4 +1,6 @@
-<p align="center">Le Studio Ghibli</p>
+<h1 style="text-align:center; font-size:40px;">
+Le Studio Ghibli</h1>
+
   
 <p align="center">Les personnages iconiques des films du studio</p>
 
