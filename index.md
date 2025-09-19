@@ -2,7 +2,8 @@
 Le Studio Ghibli</h1>
 
   
-<p align="center">Les personnages iconiques des films du studio</p>
+<h1 style="text-align:center; font-size:30px;"> Les personnages iconiques du studio </h1>
+
 
 
 
