@@ -16,5 +16,7 @@ Cliquez sur les liens ci-dessous pour en apprendre plus sur vos personnages pré
 
 - [Totoro](test2)
 - [Chihiro](chihiro)
+- [Hauru](hauru)
+- [Sheeta & Pazu](sheeta&pazu)
 - 
 
