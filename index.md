@@ -4,7 +4,7 @@ Le Studio Ghibli</h1>
   
 <h1 style="text-align:center; font-size:30px;"> Les personnages iconiques du studio </h1>
 
-
+{% include navbar.md %}
 
 
 > Bienvenue sur ce site sur le studio ghibli, l'endroit idéal pour en apprendre plus sur ce studio d'animation, sur les personnages principaux et sur ses musiques iconiques.
