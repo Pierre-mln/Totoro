@@ -15,8 +15,8 @@ Le Studio Ghibli</h1>
 Cliquez sur les liens ci-dessous pour en apprendre plus sur vos personnages préférés :
 
 - [Totoro](test2)
-- [Chihiro](chihiro)
-- [Hauru](hauru)
-- [Sheeta & Pazu](sheeta&pazu)
+- [Chihiro](Chihiro)
+- [Hauru](Hauru)
+- [Sheeta & Pazu](Sheeta&Pazu)
 - 
 
