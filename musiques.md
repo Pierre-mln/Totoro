@@ -4,7 +4,8 @@
 
 ## Voici une petite présentation sur Joe Hisaishi
 
-![image](https://github.com/user-attachments/assets/99bf41fe-37df-4b47-90f0-afcd0ed3145d)
+![image](https://github.com/user-attachments/assets/4edddb5c-e120-4080-abd2-0439843e8a4d)
+
 
 <div style="text-align: justify;">Compositeur et chef d’orchestre japonais, Joe Hisaishi est étroitement associé à l’univers du studio Ghibli. Depuis Nausicaä de la Vallée du Vent (1984), il a signé les bandes originales de la majorité des films de Hayao Miyazaki, dont Mon voisin Totoro, Princesse Mononoké, Le Voyage de Chihiro ou encore Le Vent se lève. Son style mêle mélodies délicates, orchestrations grandioses et touches minimalistes, donnant une identité sonore unique aux films. Sa musique, à la fois émotive et intemporelle, contribue largement à la magie et à l’atmosphère inoubliable des œuvres de Ghibli.</div>
 
