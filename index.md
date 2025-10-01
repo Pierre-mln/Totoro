@@ -2,7 +2,7 @@
 Le Studio Ghibli</h1>
 
   
-<h1 style="text-align:center; font-size:30px;"> Les personnages iconiques du studio </h1>
+<h1 style="text-align:center; font-size:30px;"> Présentation du Studio Ghibli </h1>
 
 {% include navbar.md %}
 
