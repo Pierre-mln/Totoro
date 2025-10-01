@@ -1,4 +1,4 @@
-  # Chihiro du Voyage de Chihiro
+# Chihiro du Voyage de Chihiro
 
   {% include navbar.md %}
 
