@@ -1,6 +1,7 @@
 # L'emblème iconique du Studio Ghibli
 ## Totoro
 
+{% include navbar.md %}
 
 <img width="1080" height="1487" alt="image" src="https://github.com/user-attachments/assets/e6d0c335-d955-45fe-b979-6858104f64d7" />
 
