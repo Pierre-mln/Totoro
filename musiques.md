@@ -2,7 +2,7 @@
 
 {% include navbar.md %}
 
-## Voici une petite présentation sur Joe Hisaishi
+## Voici une petite présentation de Joe Hisaishi
 
 ![image](https://github.com/user-attachments/assets/4edddb5c-e120-4080-abd2-0439843e8a4d)
 
