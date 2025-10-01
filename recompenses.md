@@ -1,5 +1,7 @@
 # Voici une liste non exhaustive des recompenses que le studio japonais à obtenu
 
+{% include navbar.md %}
+
 ![image](https://github.com/user-attachments/assets/4d162226-930f-4730-b235-bab45312dd9a)
 
 
