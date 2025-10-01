@@ -3,7 +3,7 @@
 
 {% include navbar.md %}
 
-![image](https://github.com/user-attachments/assets/36934aff-3936-4da6-9ff6-e07154de99a3)
+![image](https://github.com/user-attachments/assets/cb97211e-8113-413b-baba-51bfef71c12b)
 
 
 
