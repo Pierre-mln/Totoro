@@ -17,7 +17,8 @@ Le Studio Ghibli</h1>
 <div style="text-align: justify;">         Le studio Ghibli est un studio d’animation japonais fondé en 1985 par Hayao Miyazaki, Isao Takahata et le producteur Toshio Suzuki, après le succès du film Nausicaä de la Vallée du Vent. Devenu rapidement une référence mondiale de l’animation, Ghibli se distingue par son univers poétique, ses personnages attachants et son souci du détail. Des films comme Mon voisin Totoro (1988), Princesse Mononoké (1997) ou encore Le Voyage de Chihiro (2001), qui a remporté l’Oscar du meilleur film d’animation, ont contribué à forger sa renommée internationale. Aujourd’hui, le studio est reconnu non seulement pour la qualité artistique de ses œuvres, mais aussi pour la sensibilité écologique et humaniste qui traverse l’ensemble de sa filmographie.</div>
 
 
-![image](https://github.com/user-attachments/assets/b53dc100-5965-43a0-8813-550f33cfa27f)
+![image](https://github.com/user-attachments/assets/b53dc100-5965-43a0-8813-550f33cfa27f) Voici les trois créateurs du Studio
+
 
 
 ## Hayao Miyazaki
