@@ -27,3 +27,20 @@ Le Studio Ghibli</h1>
 ## Toshio Suzuki
 
 <div style="text-align: justify;">  Producteur et troisième pilier de Ghibli, Toshio Suzuki a joué un rôle essentiel dans la gestion et la promotion du studio. Ancien rédacteur du magazine Animage, il a d’abord soutenu Miyazaki et Takahata avant de devenir leur partenaire. Il a supervisé la production de la plupart des films emblématiques du studio et contribué à leur diffusion mondiale. Grâce à sa vision stratégique et son sens de la communication, il a permis à Ghibli de s’imposer comme un géant de l’animation.</div>
+
+
+### Voici un tableau contenant les informations utiles pour en apprendre plus sur le studio.
+
+| Titre                         | Année | Réalisateur     | Compositeur   | Thèmes principaux                                | Récompenses majeures                         |
+|-------------------------------|-------|----------------|---------------|-------------------------------------------------|----------------------------------------------|
+| Nausicaä de la Vallée du Vent | 1984  | Hayao Miyazaki  | Joe Hisaishi  | Écologie, guerre, espoir                        | Prix Animage (pré-Ghibli)                    |
+| Le Château dans le ciel       | 1986  | Hayao Miyazaki  | Joe Hisaishi  | Aventure, amitié, héritage                      | N/A                                          |
+| Mon voisin Totoro             | 1988  | Hayao Miyazaki  | Joe Hisaishi  | Nature, enfance, magie                          | Prix Mainichi                                |
+| Kiki la petite sorcière       | 1989  | Hayao Miyazaki  | Joe Hisaishi  | Indépendance, apprentissage, entraide           | Prix Animage                                 |
+| Porco Rosso                   | 1992  | Hayao Miyazaki  | Joe Hisaishi  | Mémoire, guerre, identité                       | Prix Mainichi                                |
+| Princesse Mononoké            | 1997  | Hayao Miyazaki  | Joe Hisaishi  | Écologie, conflits, spiritualité                | Prix Mainichi, Japan Academy                 |
+| Le Voyage de Chihiro          | 2001  | Hayao Miyazaki  | Joe Hisaishi  | Identité, passage à l’âge adulte, courage       | Oscar, Ours d’Or Berlin, Annie Award         |
+| Le Château ambulant           | 2004  | Hayao Miyazaki  | Joe Hisaishi  | Amour, magie, transformation                    | Nominations Annie Awards                     |
+| Ponyo sur la falaise          | 2008  | Hayao Miyazaki  | Joe Hisaishi  | Enfance, famille, nature                        | Japan Academy Prize                          |
+| Le Vent se lève               | 2013  | Hayao Miyazaki  | Joe Hisaishi  | Rêves, aviation, guerre                         | Nominations Oscars, Japan Academy Prize      |
+| Le Garçon et le Héron         | 2023  | Hayao Miyazaki  | Joe Hisaishi  | Perte, deuil, imagination                       | Oscar, Golden Globe, BAFTA                   |
