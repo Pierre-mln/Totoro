@@ -6,6 +6,8 @@
 
 <p style="text-align:justify;">Dans Le Château ambulant, Miyazaki met en scène la guerre de façon très parlante. Contrairement à beaucoup de films d’animation, il ne montre pas de grandes batailles spectaculaires ni d’ennemis clairement identifiés : le conflit est volontairement flou, presque abstrait. Cela traduit son idée que toute guerre est absurde, peu importe qui en est responsable. Les bombardements, les villes en flammes et les soldats fatigués créent une atmosphère oppressante, mais en parallèle, l’histoire se concentre sur Sophie et Hauru, leur lien, leur quête d’amour et de liberté. Ce contraste fort illustre bien le message pacifiste de Miyazaki : la guerre détruit tout, mais ce sont les relations humaines et la solidarité qui redonnent sens à la vie.</p>
 
+![image](https://github.com/user-attachments/assets/8b8dcd03-afc3-4a38-9541-46363f5e21d5)
+
 
 ## Zoom sur les personnages d'Hauru et Sophie
 
